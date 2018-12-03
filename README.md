@@ -1,6 +1,7 @@
-# kan84
-采集kan84.net网站数据
+# Coin
+虚拟货币采集
 
+https://mapi.feixiaohao.com
 
 ## 演示
 ![1](./1.gif)
