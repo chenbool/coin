@@ -4,5 +4,5 @@
 https://mapi.feixiaohao.com
 
 ## 演示
-![1](./1.gif)
-![2](./sql.png)
+![1](./demo/1.gif)
+![2](./demo/sql.png)
